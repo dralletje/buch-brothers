@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "react-native-web": "^0.0.81",
+    "react-quick": "^0.3.0",
+    "react-router-dom": "^4.1.0",
+    "styled-components": "^1.4.4"
+  }
+}
